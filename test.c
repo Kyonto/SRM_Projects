@@ -1,3 +1,6 @@
+//https://github.com/Kyonto/SRM_Projects/edit/main/test.c
+//RA2111003010121 - Sivaguru Muralidharan
+
 #include <stdio.h>
 
 float result;
